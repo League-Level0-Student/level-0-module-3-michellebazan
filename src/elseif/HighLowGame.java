@@ -44,7 +44,7 @@ public class HighLowGame {
 		// 13. Tell them they lose
 		
 			JOptionPane.showMessageDialog(null, "You loose");
-
+System.exit(0);
 		}
 	}
 
